@@ -1,5 +1,4 @@
-//Name :Karan Kotabagi
-//University ID: 2000217137
+
 //Question 1:
 //Solution: The problem is solved on the basis of the below points :---
 /*-> 1)This is solved using the bottom up approach.
