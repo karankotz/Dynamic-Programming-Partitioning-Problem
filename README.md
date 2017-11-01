@@ -14,3 +14,14 @@ Output: 6 partitions
 4. 3 + 1 + 1
 5. 4 + 1
 6. 1 + 4
+
+
+Solution: The problem is solved on the basis of the below points :---
+
+1)This is solved using the bottom up approach.
+     
+2)At the first the table is built with the intially by assigning all the element to the zero.
+
+3)At next the base case has been initailized, i,e.. for the table T[0] = 1 is taken as the base case.
+     
+4) After the initalization of the base the DP table is built, this is explained in the report.
